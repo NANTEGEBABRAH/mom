@@ -1,0 +1,9 @@
+body{
+    background-image: url();
+    background-size: cover;
+    background-position: center;
+}
+.me{
+    background-color: green;
+    color: rgb(238, 255, 0);
+}
